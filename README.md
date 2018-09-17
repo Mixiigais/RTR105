@@ -7,7 +7,7 @@ Datormācības kursa elektroniskā klade.
 **ls** - list directory contents  
 **ls -li**  
 **la -a** - do not ignore entries starting with "."  
-**uname**
+**uname**  
 **echo $0**
 ### Pārvietošanas failu sistēma:
 **cd** -
