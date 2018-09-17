@@ -10,4 +10,6 @@ Datormācības kursa elektroniskā klade.
 **uname**  
 **echo $0**
 ### Pārvietošanas failu sistēma:
-**cd** -
+**cd .**  
+**cd ..** 
+
