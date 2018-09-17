@@ -9,7 +9,14 @@ Datormācības kursa elektroniskā klade.
 **la -a** - do not ignore entries starting with "."  
 **uname**  
 **echo $0**
-### Pārvietošanas failu sistēma:
-**cd .**  
-**cd ..** 
+### Pārvietošanas failu sistēma:  
+**cd** **.** - action on the same spot
+**cd** **..** - action backwards
+**cd map_name/**  
+**cp file_name** - copy file  
+**mv file_name** - move file 
+**rm file_name** - remove  
+**cat/more/less file_name** - view file content  
+
+
 
