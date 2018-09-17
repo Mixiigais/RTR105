@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  whoami
+    5  who
+    6  pwd
+    7  ls 
+    8  ls -l
+    9  cd Music/
+   10  /Music pwd
+   11  Music$ pwd
+   12  cp fails.txt fails101.txt
+   13  cp fails1.txt fails101.txt
+   14  ls -l
+   15  mv *1*.txt Music/
+   16  ls -l
+   17  cd Music/
+   18  ls -l
+   19  mv fails1.txt ../fails102.txt
+   20  ls -l
+   21  cd ..
+   22  ls -l
+   23  mv fails102.txt fails103.txt
+   24  ls -l
+   25  mv fails103.txt fails2.txt
+   26  ls -l
+   27  cat fails2.txt
+   28  mv fails103.txt fails2.txt
+   29  mv fails3.txt fails2.txt
+   30  ls -l
+   31  ls Music/
+   32  ls -la Music/
+   33  pwd
+   34  rm Music/fails101.txt 
+   35  ls -la Music/
+   36  ls -l
+   37  rm fails*.txt
+   38  ls -l
+   39  man rm
+   40  history
+   41  history > history_20180917.txt
