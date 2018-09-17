@@ -1,6 +1,7 @@
 # RTR105
 Datormācības kursa elektroniskā klade.
 ### Commands:
+**man** - manual  
 **whoami**  
 **who**   
 **pwd**  
